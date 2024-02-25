@@ -47,7 +47,7 @@ web server , client
 
 3 types of files.
 
-![image-20240219180946392](Images\image-20240219180946392.png)
+![image-20240219180946392](Images/image-20240219180946392.png)
 
 
 
@@ -63,15 +63,15 @@ Aria-label - 6:11
 
 
 
-![image-20240219180310578](Images\image-20240219180310578.png)
+![image-20240219180310578](Images/image-20240219180310578.png)
 
-![image-20240219180336229](Images\image-20240219180336229.png)
-
-
+![image-20240219180336229](./Images/image-20240219180336229.png)
 
 
 
-![image-20240219180454276](Images\image-20240219180454276.png)
+
+
+![image-20240219180454276](./Images/image-20240219180454276.png)
 
 
 
@@ -105,7 +105,7 @@ Done through HTML tags
 
  
 
-![image-20240224231322981](Images\image-20240224231322981.png)
+![image-20240224231322981](./Images/image-20240224231322981.png)
 
 
 
@@ -332,7 +332,7 @@ fixed when i comment out out Conda stuff.
 
 
 ```
-chuck.raghavan@LAUSDLA-O7KCC0P MINGW64 ~/OneDrive - Los Angeles Unified School District/Documents/GitHub
+..../Documents/GitHub
 $ code .
 node:internal/modules/cjs/loader:1132
   throw err;
@@ -360,7 +360,7 @@ C:\Users\chuck.raghavan\AppData\Local\Programs\Microsoft VS Code\Code.exe .
 
 
 
-![image-20240219175206622](C:\Users\chuck.raghavan\OneDrive - Los Angeles Unified School District\Documents\GitHub\WebDevUdemy\Images\image-20240219175206622.png)
+![image-20240219175206622](Images/image-20240219175206622.png)
 
 
 
@@ -373,13 +373,13 @@ Installed x64 since VS code on LL laptop was x32.
 
 
 ```
-chuck.raghavan@LAUSDLA-O7KCC0P MINGW64 ~/OneDrive - Los Angeles Unified School District/Documents/GitHub/WebDevUdemy (main)
+....Documents/GitHub/WebDevUdemy (main)
 $ code --version
 1.83.1
 a6606b6ca720bca780c2d3c9d4cc3966ff2eca12
 ia32
 
-chuck.raghavan@LAUSDLA-O7KCC0P MINGW64 ~/OneDrive - Los Angeles Unified School District/Documents/GitHub/WebDevUdemy (main)
+.../Documents/GitHub/WebDevUdemy (main)
 $ code --version
 1.86.2
 903b1e9d8990623e3d7da1df3d33db3e42d80eda
