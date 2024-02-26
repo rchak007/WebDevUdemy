@@ -299,6 +299,67 @@ https://www.fbi.gov/wanted/topten
 
 #### Exercise
 
+WebDevUdemy\3.0 List Elements\index.html
+
+
+
+#### Done
+
+
+
+
+
+### 19. Nesting and Indentation
+
+
+
+### Nested lists
+
+
+
+#### exercise
+
+WebDevUdemy\3.1 Nesting and Indentation\index.html
+
+#### done
+
+
+
+### 20. Anchor Elements
+
+
+
+#### Anchor element
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a
+
+##### href
+
+Anchor element allows hyperlinks
+
+
+
+![image-20240225021958062](./Images/image-20240225021958062.png)
+
+
+
+![image-20240225022023189](./Images/image-20240225022023189.png)
+
+
+
+![image-20240225022030726](./Images/image-20240225022030726.png)
+
+
+
+##### Global attributes
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes
+
+
+
+##### draggable
+
+![image-20240225022201672](./Images/image-20240225022201672.png)
 
 
 
@@ -306,10 +367,10 @@ https://www.fbi.gov/wanted/topten
 
 
 
+```
+git config --global user.email "rchak1@aol.com"
 
-
-
-
+```
 
 
 
