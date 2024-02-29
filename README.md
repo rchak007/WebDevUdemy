@@ -345,9 +345,15 @@ Anchor element allows hyperlinks
 
 ![image-20240225022023189](./Images/image-20240225022023189.png)
 
-
+##### syntax, multiple attributes
 
 ![image-20240225022030726](./Images/image-20240225022030726.png)
+
+
+
+
+
+
 
 
 
@@ -360,6 +366,96 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes
 ##### draggable
 
 ![image-20240225022201672](./Images/image-20240225022201672.png)
+
+
+
+
+
+#### Exercise 
+
+
+
+Documents\GitHub\WebDevUdemy\3.2 Anchor Elements\index.html
+
+
+
+#### Done
+
+
+
+### 21. Image Elements
+
+
+
+#### img tag
+
+
+
+![image-20240228212927480](./Images/image-20240228212927480.png)
+
+#### alt attribute
+
+![image-20240228212951700](./Images/image-20240228212951700.png)
+
+
+
+#### SilkTide
+
+SilkTide toolbar to listen to Alt reading attribute
+
+Seems like its asking to login and also no free user email registration.
+
+
+
+#### Exercise
+
+
+
+#### Done
+
+
+
+### 22. [Project] Birthday Invite
+
+#### Exercise - 
+
+Documents\GitHub\WebDevUdemy\3.4 Birthday Invite Project\index.html
+
+#### done
+
+
+
+### 23. Tip from Angela - Habit building
+
+
+
+### 24. Monthly App Brewery newsletter
+
+signed up.
+
+
+
+## Section 4 - Multi-Page Websites
+
+
+
+### 25. Computer File Paths
+
+Relative & absolute file paths
+
+./ is current directory
+
+#### Exercise
+
+
+
+
+
+
+
+
+
+
 
 
 
