@@ -447,15 +447,29 @@ Relative & absolute file paths
 
 #### Exercise
 
+Documents\GitHub\WebDevUdemy\4.0 File Paths\Folder0\index.html
+
+#### done
+
+
+
+### 26. What are Webpages?
+
+
+
+#### multi-page 
+
+![image-20240229130701502](./Images/image-20240229130701502.png)
 
 
 
 
 
+#### Exercise
 
+Documents\GitHub\WebDevUdemy\4.1 WebPages\index.html
 
-
-
+#### done
 
 
 
