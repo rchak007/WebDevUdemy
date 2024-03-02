@@ -1,5 +1,5 @@
 # WebDevUdemy
-Web dev Udemy practice
+Web dev Udemy practice- study notes
 
 
 
@@ -470,6 +470,126 @@ Documents\GitHub\WebDevUdemy\4.0 File Paths\Folder0\index.html
 Documents\GitHub\WebDevUdemy\4.1 WebPages\index.html
 
 #### done
+
+
+
+### 27. The HTML Boilerplate
+
+
+
+#### !Doctype 
+
+which version its written in 
+
+![image-20240229195557549](./Images/image-20240229195557549.png)
+
+
+
+
+
+![image-20240229195645852](./Images/image-20240229195645852.png)
+
+
+
+#### html
+
+root of the document - everything else goes within this.
+
+has lang for language. more for screen readers.
+
+
+
+![image-20240229195803023](./Images/image-20240229195803023.png)
+
+
+
+#### head element
+
+not displayed but important info but not content.
+
+##### meta 
+
+tag for character set.
+
+![image-20240229195941788](./Images/image-20240229195941788.png)
+
+##### title
+
+![image-20240229200049961](./Images/image-20240229200049961.png)
+
+![image-20240229200109823](./Images/image-20240229200109823.png)
+
+
+
+##### Example - 
+
+View Page source
+
+
+
+![image-20240229200405297](./Images/image-20240229200405297.png)
+
+![image-20240229200226719](./Images/image-20240229200226719.png)
+
+
+
+##### Body element
+
+All the content goes here.
+
+Meat of the body.
+
+![image-20240229200718621](./Images/image-20240229200718621.png)
+
+
+
+#### ! Hit 
+
+enter to get boilerplate
+
+
+
+### 28. [Project] Portfolio Website
+
+
+
+#### project
+
+C:\Users\chuck.raghavan\OneDrive - Los Angeles Unified School District\Documents\GitHub\WebDevUdemy\4.3 HTML Porfolio Project\index.html
+
+#### done
+
+
+
+
+
+### 29. How to Host Your Website for Free with GitHub
+
+https://rchak007.github.io/html-portfolio/
+
+created this website on GitHub.
+
+Documents\GitHub\WebDevUdemy\4.3 HTML Porfolio Project\index.html
+
+
+
+### 30. Introduction to Capstone Projects
+
+
+
+### 31. Instructions to Capstone Project 1
+
+https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37330378#notes
+
+
+
+Documents\GitHub\WebDevUdemy\Capstone Project 1\index.html
+
+
+
+https://rchak007.github.io/onlineResume/
+
+
 
 
 
