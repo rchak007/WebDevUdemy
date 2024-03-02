@@ -593,6 +593,394 @@ https://rchak007.github.io/onlineResume/
 
 
 
+## Section 5 - Introduction to CSS
+
+
+
+
+
+### 32. Why do we need CSS?
+
+
+
+#### Marc Andreessen - mosaic inventor and Netscape
+
+https://en.wikipedia.org/wiki/Marc_Andreessen
+
+**Marc Lowell Andreessen** (born July 9, 1971) is an American businessman and [software engineer](https://en.wikipedia.org/wiki/Software_engineer). He is the co-author of [Mosaic](https://en.wikipedia.org/wiki/Mosaic_(web_browser)), the first widely used [web browser](https://en.wikipedia.org/wiki/Web_browser) with a graphical user interface; co-founder of [Netscape](https://en.wikipedia.org/wiki/Netscape); and co-founder and general partner of [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley) venture capital firm [Andreessen Horowitz](https://en.wikipedia.org/wiki/Andreessen_Horowitz). He co-founded and later sold the [software company](https://en.wikipedia.org/wiki/Software_company) [Opsware](https://en.wikipedia.org/wiki/Opsware) to [Hewlett-Packard](https://en.wikipedia.org/wiki/Hewlett-Packard). Andreessen is also a co-founder of [Ning](https://en.wikipedia.org/wiki/Ning_(website)), a company that provides a platform for social networking websites and an inductee in the [World Wide Web Hall of Fame](https://en.wikipedia.org/wiki/World_Wide_Web_Hall_of_Fame). Andreessen's net-worth is estimated at $1.7 billion.
+
+
+
+#### CSS creator - Håkon Wium Lie
+
+https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie
+
+**Håkon Wium Lie** (born July 26, 1965) is a [Norwegian](https://en.wikipedia.org/wiki/Norwegians) web pioneer, a standards activist, and the chairman of YesLogic, developers of [Prince](https://en.wikipedia.org/wiki/Prince_(software)) CSS-based PDF rendering software.[[1\]](https://en.wikipedia.org/wiki/Håkon_Wium_Lie#cite_note-howcome-1)[[2\]](https://en.wikipedia.org/wiki/Håkon_Wium_Lie#cite_note-liehome-2) He is best known for developing [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) while working with [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) and [Robert Cailliau](https://en.wikipedia.org/wiki/Robert_Cailliau) at [CERN](https://en.wikipedia.org/wiki/CERN) in 1994. He was the [Chief Technology Officer](https://en.wikipedia.org/wiki/Chief_Technology_Officer) of [Opera Software](https://en.wikipedia.org/wiki/Opera_(company)) from 1998 until the browser was sold to new owners in 2016.[[3\]](https://en.wikipedia.org/wiki/Håkon_Wium_Lie#cite_note-3)[[2\]](https://en.wikipedia.org/wiki/Håkon_Wium_Lie#cite_note-liehome-2)
+
+
+
+#### her Website
+
+just shows HTML vs what happens when adding CSS to it as is.
+
+https://appbrewery.github.io/just-add-css/
+
+
+
+
+
+### 33. How to add CSS
+
+
+
+#### 3 types
+
+![image-20240302100900865](./Images/image-20240302100900865.png)
+
+
+
+
+
+#### Inline 
+
+
+
+![image-20240302100939899](./Images/image-20240302100939899.png)
+
+
+
+
+
+![image-20240302101049200](./Images/image-20240302101049200.png)
+
+
+
+
+
+
+
+Global attribute style- available to all tags.
+
+![image-20240302101246697](./Images/image-20240302101246697.png)
+
+
+
+
+
+#### Internal
+
+
+
+Inline add only when its very specific and not to use everywhere.
+
+instead Internal is better.
+
+![image-20240302101455447](./Images/image-20240302101455447.png)
+
+
+
+##### selector
+
+![image-20240302101559073](./Images/image-20240302101559073.png)
+
+
+
+
+
+![image-20240302101834484](./Images/image-20240302101834484.png)
+
+
+
+
+
+
+
+
+
+
+
+#### External
+
+Most common
+
+
+
+![image-20240302101940117](./Images/image-20240302101940117.png)
+
+
+
+
+
+
+
+#### Summary 
+
+![image-20240302102056047](./Images/image-20240302102056047.png)
+
+
+
+
+
+#### Exercise
+
+Documents\GitHub\WebDevUdemy\5.1. Adding CSS\index.html
+
+#### done
+
+
+
+### 34. CSS Selectors
+
+
+
+#### Element Selector
+
+![image-20240302103441065](./Images/image-20240302103441065.png)
+
+
+
+#### Class Selector
+
+
+
+![image-20240302103514079](./Images/image-20240302103514079.png)
+
+
+
+#### ID selector
+
+![image-20240302103536144](./Images/image-20240302103536144.png)
+
+
+
+#### Attribute Selector
+
+
+
+![image-20240302103602348](./Images/image-20240302103602348.png)
+
+
+
+![image-20240302103650125](./Images/image-20240302103650125.png)
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li
+
+
+
+
+
+#### Exercise
+
+Documents\GitHub\WebDevUdemy\5.3 CSS Selectors\index.html
+
+#### Done
+
+
+
+###  35. [Project] Color Vocab Website
+
+Documents\GitHub\WebDevUdemy\5.4 ColorVocabProject\index.html
+
+#### done
+
+
+
+### 36. Tip from Angela
+
+
+
+### 37. Join the Student community
+
+report issue.
+
+https://docs.google.com/forms/d/e/1FAIpQLSeZewm5WSjfb_VfOdkQCQpdunWl9FeIQlVhdYjSYK5fvM_fcw/viewform
+
+
+
+## Section 6 - CSS Properties
+
+
+
+
+
+### 38. CSS Colors
+
+
+
+
+
+![image-20240302152741362](./Images/image-20240302152741362.png)
+
+
+
+#### Named colors documentation
+
+https://developer.mozilla.org/en-US/docs/Web/css/named-color
+
+
+
+#### Important - color hunt	
+
+https://colorhunt.co/
+
+![image-20240302151714384](./Images/image-20240302151714384.png)
+
+
+
+
+
+3rd one can be background. 1st one H1 and 2nd one h2.
+
+#### Hex codes
+
+
+
+#### RGB Mixer
+
+https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
+
+
+
+#### Exercise 
+
+#### done
+
+
+
+### 39. Font Properties
+
+
+
+
+
+#### Font Size
+
+![](./Images/image-20240302153439313.png)
+
+
+
+
+
+#### Pixel vs Point
+
+
+
+![image-20240302153616042](./Images/image-20240302153616042.png)
+
+#### MS Word - points
+
+Word uses Points 
+
+
+
+
+
+​	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
