@@ -2266,6 +2266,47 @@ Documents\GitHub\WebDevUdemy\6.1 Font properties\index.html
 
 
 
+### 40. Inspecting CSS
+
+
+
+#### Developer tools or inspect
+
+Chrome developer console or right click. & inspect
+
+https://appbrewery.github.io/just-add-css/
+
+
+
+
+
+![image-20240304002610555](./Images/image-20240304002610555.png)
+
+
+
+
+
+#### Elements tab & style section
+
+
+
+
+
+##### select an element button
+
+you can then select Visually
+
+![image-20240304002952881](./Images/image-20240304002952881.png)
+
+
+
+
+
+#### style section
+
+
+
+![image-20240304003115013](./Images/image-20240304003115013.png)
 
 
 
@@ -2273,6 +2314,11 @@ Documents\GitHub\WebDevUdemy\6.1 Font properties\index.html
 
 
 
+when you select `h2` in the style tab shows what styling has been applied to it.
+
+
+
+![image-20240304003241046](./Images/image-20240304003241046.png)
 
 
 
@@ -2280,6 +2326,17 @@ Documents\GitHub\WebDevUdemy\6.1 Font properties\index.html
 
 
 
+#### Example - 
+
+i can see what button and color etc and temporarily change it to PINK
+
+![image-20240304003608936](./Images/image-20240304003608936.png)
+
+
+
+
+
+![image-20240304003657929](./Images/image-20240304003657929.png)
 
 
 
@@ -2287,6 +2344,87 @@ Documents\GitHub\WebDevUdemy\6.1 Font properties\index.html
 
 
 
+#### automatic pre-loaded CSS
+
+there is lot of automatic pre-loaded CSS.
+
+
+
+when yours is in conflict with automatic one then they will appear in scratched (the automatic ones)
+
+![image-20240304004417509](./Images/image-20240304004417509.png)
+
+
+
+
+
+#### CSS file
+
+when you do your own CSS it even tells which file its coming from.
+
+![image-20240304004505746](./Images/image-20240304004505746.png)
+
+
+
+
+
+in this example there was no style.css but as we see its Internal styling and external file.
+
+![image-20240304004938552](./Images/image-20240304004938552.png)
+
+
+
+#### Create styling
+
+![image-20240304013948233](./Images/image-20240304013948233.png)
+
+
+
+
+
+when yours is in conflict with automatic one then they will appear in scratched (the automatic ones)
+
+how do you know final what is applied - 
+
+#### Computer tab
+
+
+
+![image-20240304014505241](./Images/image-20240304014505241.png)
+
+
+
+
+
+#### More Tools -> CSS Overview
+
+
+
+
+
+![image-20240304014655348](./Images/image-20240304014655348.png)
+
+
+
+then select `Capture overview`
+
+![image-20240304014744702](./Images/image-20240304014744702.png)
+
+
+
+#### Colors used
+
+shows all the background colors, color used etc.
+
+![image-20240304014903228](./Images/image-20240304014903228.png)
+
+
+
+#### Fonts used
+
+You can even check the Font being used.
+
+![image-20240304015007924](./Images/image-20240304015007924.png)
 
 
 
@@ -2294,6 +2432,67 @@ Documents\GitHub\WebDevUdemy\6.1 Font properties\index.html
 
 
 
+#### Media Queries used
+
+![image-20240304015128793](./Images/image-20240304015128793.png)
+
+
+
+#### practice 
+
+https://appbrewery.github.io/css-inspection/
+
+
+
+You can go to Computed or just from styles you can get these.
+
+
+
+#### done
+
+
+
+### 41.The CSS Box Model - Margin, Padding and Border
+
+
+
+#### Border
+
+Pixel or percentages
+
+Border- thickness style color
+
+
+
+![image-20240305174319365](./Images/image-20240305174319365.png)
+
+
+
+#### border-width
+
+![image-20240305174351522](./Images/image-20240305174351522.png)
+
+
+
+
+
+#### padding
+
+![image-20240305174437706](./Images/image-20240305174437706.png)
+
+
+
+#### margin
+
+
+
+![image-20240305174516111](./Images/image-20240305174516111.png)
+
+
+
+
+
+![image-20240305174545472](./Images/image-20240305174545472.png)
 
 
 
@@ -2301,6 +2500,55 @@ Documents\GitHub\WebDevUdemy\6.1 Font properties\index.html
 
 
 
+#### summary1
+
+![image-20240305174620522](./Images/image-20240305174620522.png)
+
+
+
+
+
+#### Task
+
+you can play a bit here
+
+https://appbrewery.github.io/box-model/
+
+![image-20240305174755347](./Images/image-20240305174755347.png)
+
+
+
+
+
+you can increase margin here and you see below image it increased.
+
+
+
+![image-20240305175047717](./Images/image-20240305175047717.png)
+
+
+
+
+
+more changes:
+
+
+
+![image-20240305175152868](./Images/image-20240305175152868.png)
+
+
+
+
+
+#### Summary2
+
+![image-20240305175243666](./Images/image-20240305175243666.png)
+
+
+
+#### div element
+
+![image-20240305175345145](./Images/image-20240305175345145.png)
 
 
 
@@ -2308,7 +2556,485 @@ Documents\GitHub\WebDevUdemy\6.1 Font properties\index.html
 
 
 
+![image-20240305175425626](./Images/image-20240305175425626.png)
 
+
+
+
+
+#### Pesticide Extension
+
+
+
+![image-20240305175441402](./Images/image-20240305175441402.png)
+
+
+
+
+
+##### hovering on element
+
+![image-20240305175543485](./Images/image-20240305175543485.png)
+
+##### CTRL key
+
+You have to hold down CTRL key.
+
+![image-20240305175908212](./Images/image-20240305175908212.png)
+
+
+
+
+
+### 42. [Project] Motivational Poster Website
+
+
+
+#### project
+
+Documents\GitHub\WebDevUdemy\6.4 Motivation Meme Project\index.html
+
+
+
+```html
+<!-- 
+  TODO: Create a motivational post website.
+Style it how ever you like. 
+Look at the goal image for inspiration.
+But it must have the following features:
+1. The main h1 text should be using the Regular Libre Baskerville Font from Google Fonts:
+  https://fonts.google.com/specimen/Libre+Baskerville
+2. The text should be white and background black.
+3. Add your own image into the images folder inside assets. It should have a 5px white border.
+4. The text should be center aligned.
+5. Create a div to contain the h1, p and img elements. Adjust the margins so that the image and text are centered on the page. 
+  Hint: You horizontally center a div by giving it a width of 50% and a margin-left of 25%.
+  Hint: Set the image to have a width of 100% so it fills the div. 
+6. Read about the text-transform property on MDN docs to make the h1 uppercase with CSS.
+  https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform 
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="topDivClass">
+      <div class="imageDivClass">
+        <img src="./assets/images/daenerys.jpeg" class="imageClass" />
+      </div>
+      <div class="textClass">
+        <h1 class="libre-baskerville-regular">That special Moment</h1>
+        <p>When you find the perfect avocado at the supermarket</p>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+---- Solution body ---
+<body>
+
+  <div class="poster">
+    <img class="motivation-img" src="./assets/images/daenerys.jpeg" src="daenerys with egg" />
+    <h1>That Special Moment</h1>
+    <p>When you find the perfect avocado at the supermarket</p>
+  </div>
+</body>
+```
+
+
+
+
+
+
+
+Documents\GitHub\WebDevUdemy\6.4 Motivation Meme Project\style.css
+
+
+
+```css
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  color: white;
+  background-color: black;
+}
+.imageDivClass {
+  border: 5px solid white;
+}
+.textClass {
+  text-align: center;
+}
+.topDivClass {
+  margin-left: 25%;
+  width: 50%;
+  margin-right: 25%;
+  margin-top: 3%;
+}
+.imageClass {
+  width: 100%;
+}
+h1 {
+  text-transform: uppercase;
+}
+
+
+---- SOLUTION CSS
+body {
+  background-color: black;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+.poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+
+.motivation-img {
+  border: 5px solid white;
+  width: 100%;
+}
+
+```
+
+
+
+
+
+#### done
+
+
+
+
+
+
+
+## Section 7 - Intermediate CSS 
+
+
+
+
+
+### 43. The Cascade - Specificity and Inheritance
+
+Summary for Cascade rules.
+
+![image-20240307222609153](./Images/image-20240307222609153.png)
+
+
+
+#### exercise
+
+Documents\GitHub\WebDevUdemy\7.0 CSS Cascade\index.html
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Cascade</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <div id="outer-box" class="box">
+    <div class="box">
+      <p>Yellow Text</p>
+      <div class="box inner-box">
+        <p class="white-text">White Text</p>
+      </div>
+    </div>
+    <div class="box">
+      <p>Yellow Text</p>
+      <div class="box inner-box">
+        <p class="white-text">White Text</p>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
+```
+
+
+
+
+
+Documents\GitHub\WebDevUdemy\7.0 CSS Cascade\style.css
+
+```css
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+/* my changes */
+.inner-box {
+  /* this has to be below .box to work due to specificity rules */
+  background-color: red;
+}
+.inner-box p {
+  /* could have done .white-text class */
+  color: white;
+}
+#outer-box {
+  background-color: purple;
+}
+
+
+------------- SOLUTION - 
+#outer-box {
+  background-color: purple;
+}
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+.inner-box {
+  background-color: red;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text {
+  color: white;
+}
+```
+
+
+
+![image-20240308141821834](./Images/image-20240308141821834.png)
+
+
+
+
+
+
+
+#### order important
+
+![image-20240308141848906](./Images/image-20240308141848906.png)
+
+#### done
+
+
+
+### 44. Combining CSS Selectors
+
+
+
+
+
+#### Combine class and paragraph
+
+![image-20240308161045279](./Images/image-20240308161045279.png)
+
+
+
+#### group selectors with comma , 
+
+![image-20240308161137402](./Images/image-20240308161137402.png)
+
+
+
+
+
+#### child
+
+![image-20240308161546898](./Images/image-20240308161546898.png)
+
+
+
+
+
+![image-20240308161616654](./Images/image-20240308161616654.png)
+
+
+
+
+
+
+
+#### descendent
+
+![image-20240308161802934](./Images/image-20240308161802934.png)
+
+
+
+
+
+#### chaining
+
+
+
+![image-20240308162238036](./Images/image-20240308162238036.png)
+
+
+
+
+
+##### Order - element first
+
+element has to go first
+
+
+
+![image-20240308162335285](./Images/image-20240308162335285.png)
+
+
+
+
+
+#### Combining combiners
+
+
+
+ ![image-20240308162559362](./Images/image-20240308162559362.png)
+
+
+
+
+
+
+
+#### exercise
+
+was earlier tasks - 
+
+Documents\GitHub\WebDevUdemy\7.1 Combining Selectors\index.html
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Combining CSS Selectors</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<!-- Don't change any of the HTML code! -->
+
+<body>
+  <h1>To Do List</h1>
+  <h2>Monday</h2>
+  <div class="box">
+    <p class="done">Do these things today!</p>
+    <ul class="list">
+      <li>Wash Clothes</li>
+      <li class="done">Read</li>
+      <li class="done">Maths Questions</li>
+    </ul>
+  </div>
+
+  <ul>
+    <p class="done">Other items</p>
+  </ul>
+  <p>The best preparation for tomorrow is doing your best today.</p>
+
+</body>
+
+</html>
+```
+
+
+
+
+
+\Documents\GitHub\WebDevUdemy\7.1 Combining Selectors\style.css
+
+
+
+```css
+/* Write your code here: */
+h1,
+h2 {
+  color: blueviolet;
+}
+.box > p {
+  color: firebrick;
+}
+
+/* .list {
+    color: blue;
+} */
+
+/* also works */
+/* div li {
+  color: blue;
+} */
+.box li {
+  color: blue;
+}
+
+/* Chaining */
+li.done {
+  color: seagreen;
+}
+
+/* combining combiner */
+ul > p.done {
+  font-size: 0.5rem;
+}
+```
+
+
+
+
+
+![image-20240308163056526](./Images/image-20240308163056526.png)
+
+
+
+#### done
 
 
 
