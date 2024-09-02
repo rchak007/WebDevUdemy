@@ -1,0 +1,137 @@
+.left > img,
+.right > img {
+  width: 43%;
+  height: auto;
+  /* float: left; */
+  padding-right: 50px;
+}
+.span {
+  color: navy;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  background-color: #faf9f6;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+}
+.main {
+  flex: 1;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+}
+
+html {
+  height: 810px;
+}
+
+@media (min-width: 1280px) {
+  .left > img,
+  .right > img {
+    float: left;
+  }
+
+  .flex-container {
+    display: flex;
+  }
+  .card {
+    flex: 1;
+  }
+  .left,
+  .right {
+    display: inline-block;
+    width: 50%;
+  }
+  body {
+    margin: 50px 50px 0 50px;
+  }
+  .left > p {
+    padding-right: 150px;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  h1 {
+    width: 100%;
+  }
+  .left > img,
+  .right > img {
+    width: 60%;
+  }
+
+  .flex-container {
+    display: flex;
+  }
+  .card {
+    flex: 1;
+  }
+  .left,
+  .right {
+    display: inline-block;
+    width: 70%;
+  }
+  .left > p {
+    padding-right: 150px;
+  }
+}
+
+@media (min-width: 431px) and (max-width: 1024px) {
+  h1 {
+    width: 100%;
+  }
+  .left > img,
+  .right > img {
+    width: 95%;
+  }
+
+  .flex-container {
+    display: flex;
+  }
+  .card {
+    flex: 1;
+  }
+  .left,
+  .right {
+    display: inline-block;
+    width: 80%;
+  }
+  .left > p {
+    padding-right: 0px;
+  }
+}
+
+@media (min-width: 1px) and (max-width: 430px) {
+  h1 {
+    width: 100%;
+  }
+  .left > img,
+  .right > img {
+    width: 95%;
+  }
+
+  /* .flex-container {
+    display: flex;
+  }
+  .card {
+    flex: 1;
+  } */
+  .left,
+  .right {
+    width: 80%;
+  }
+  .left > p {
+    padding-right: 0px;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+}

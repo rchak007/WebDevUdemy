@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <style>
+      .grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 100px 200px 200px;
+        gap: 30px;
+      }
+      .first {
+        grid-column: span 2;
+        background-color: bisque;
+      }
+      .card {
+        background-color: blue;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="grid-container">
+      <div class="first"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+      <div class="card"></div>
+    </div>
+  </body>
+</html>
